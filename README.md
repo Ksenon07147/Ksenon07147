@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Ksenon07147)
 ```js
 export default{
-    name:"Shiketsu",
+    name:["Ooi Zhi Jie", "Shiketsu"],
     from:"Malaysia",
     educations: {
         diploma:{
